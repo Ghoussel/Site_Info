@@ -10,6 +10,6 @@
  • cd /Site_Info</br>
  • python site_info.py</br>
 <h1> pictures from the tool </h1> 
-<img src="project2.jpg" alt="Project 2">
+<img src="Screenshot_20221223-173724_Termux.jpg" alt="Project 2">
 <h1> programmer : </h1>
 BY YouPPi
