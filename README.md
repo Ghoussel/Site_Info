@@ -6,7 +6,7 @@
  • program by python</br> </p>
 <h1>To Install The tool :</h1>
 <p> • pkg install python </br>
- • git clone https://github.com/Ghoussel/Site_Info</br>
+ • git clone https://github.com/YouPPiOff/Site_Info</br>
  • cd /Site_Info</br>
  • python site_info.py</br>
 <h1> pictures from the tool </h1> 
